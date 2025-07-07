@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I’m Wisdom Adeyemi
 
-<!--
-**Adeyemi-Wisdom/Adeyemi-Wisdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science graduate passionate about Python development and backend engineering.  
+💻 Building backend applications with Python & Django, and exploring web technologies (HTML, CSS, Bootstrap).  
+🚀 Future goal: Become an AI and Machine Learning Engineer.  
+📫 Reach me at: wisdomadeyemi77@gmail.com
 
-Here are some ideas to get you started:
+🛠️ Skills
+- Python, Django (Backend)
+- HTML, CSS, Bootstrap (Frontend)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Featured Projects
+- [Student Score Analyzer](https://github.com/WisdomAdeyemi/student-score-analyzer)
+- [Simple Django Blog](https://github.com/WisdomAdeyemi/simple-django-blog)
